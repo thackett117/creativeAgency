@@ -42,6 +42,10 @@ section.home {
   margin-top: 0;
 }
 
+.logo {
+  cursor: pointer;
+}
+
 /* BUTTON */
 .btn {
   cursor: pointer;
